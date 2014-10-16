@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[abf:home|Door43 (abf)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-abf|d43-abf repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-abf/archive/master.zip|d43-abf.zip]]
+
+**Recent Changes**
+{{changes>ns = abf}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/abf|Ethnologue data]]
+
